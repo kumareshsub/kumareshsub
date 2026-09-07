@@ -6,7 +6,7 @@
 
 I build complete products — web stores, APIs, and the phone apps staff actually run.
 
-[Portfolio](https://kumareshsub.github.io) · [GitHub](https://github.com/kumareshsub) · [Email](mailto:kumareshsubramanian2001@gmail.com)
+[Portfolio](https://kumareshsub.github.io) · [GitHub](https://github.com/kumareshsub) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=kumareshsubramanian2001@gmail.com)
 
 <br />
 
@@ -62,4 +62,4 @@ Expo / React Native seller app (Android + iOS): login, products, clients, sales,
 
 - Portfolio: [kumareshsub.github.io](https://kumareshsub.github.io)
 - GitHub: [@kumareshsub](https://github.com/kumareshsub)
-- Email: [kumareshsubramanian2001@gmail.com](mailto:kumareshsubramanian2001@gmail.com)
+- Email: [kumareshsubramanian2001@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kumareshsubramanian2001@gmail.com)
