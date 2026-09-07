@@ -54,8 +54,8 @@ Expo / React Native seller app (Android + iOS): login, products, clients, sales,
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumareshsub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumareshsub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./profile/stats.svg" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 ## Contact

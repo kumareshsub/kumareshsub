@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="165" role="img" aria-label="Top languages">
+  <rect width="300" height="165" rx="8" fill="#0f1c32" stroke="#2874f0" stroke-opacity="0.35"/>
+  <text x="20" y="32" fill="#ffe11b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">Most used languages</text>
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#e8eef8">
+    <circle cx="26" cy="58" r="5" fill="#f7df1e"/>
+    <text x="40" y="62">JavaScript  57%</text>
+    <rect x="20" y="70" width="260" height="7" rx="3" fill="#1c2c4a"/>
+    <rect x="20" y="70" width="149" height="7" rx="3" fill="#f7df1e"/>
+
+    <circle cx="26" cy="96" r="5" fill="#3776ab"/>
+    <text x="40" y="100">Python  22%</text>
+    <rect x="20" y="108" width="260" height="7" rx="3" fill="#1c2c4a"/>
+    <rect x="20" y="108" width="57" height="7" rx="3" fill="#3776ab"/>
+
+    <circle cx="26" cy="134" r="5" fill="#563d7c"/>
+    <text x="40" y="138">CSS  11%</text>
+    <circle cx="150" cy="134" r="5" fill="#e34c26"/>
+    <text x="164" y="138">HTML  10%</text>
+  </g>
+</svg>

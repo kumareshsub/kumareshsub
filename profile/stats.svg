@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="435" height="165" role="img" aria-label="GitHub stats">
+  <rect width="435" height="165" rx="8" fill="#0f1c32" stroke="#2874f0" stroke-opacity="0.35"/>
+  <text x="24" y="36" fill="#ffe11b" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700">Kumaresh's GitHub stats</text>
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#e8eef8">
+    <text x="24" y="72">Public repos</text>
+    <text x="250" y="72" font-weight="700">7</text>
+    <text x="24" y="98">Stars</text>
+    <text x="250" y="98" font-weight="700">1</text>
+    <text x="24" y="124">Featured</text>
+    <text x="250" y="124" font-weight="700">Bigdots · Laura</text>
+  </g>
+  <circle cx="400" cy="82" r="28" fill="none" stroke="#2874f0" stroke-width="8"/>
+  <text x="400" y="88" text-anchor="middle" fill="#5b9bff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">FS</text>
+</svg>
